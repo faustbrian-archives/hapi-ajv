@@ -1,13 +1,13 @@
 # @kodekeep/hapi-ajv
 
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/kodekeep/hapi-ajv/run-tests?label=tests)](https://github.com/kodekeep/hapi-ajv/actions?query=workflow%3Arun-tests+branch%3Amaster)
-[![Code Coverage](https://badgen.net/codecov/c/github/kodekeep/hapi-ajv)](https://codecov.io/gh/kodekeep/hapi-ajv)
-[![Minimum Node.js Version](https://badgen.net/npm/node/@kodekeep/hapi-ajv)](https://www.npmjs.com/package/@kodekeep/hapi-ajv)
-[![Latest Version](https://badgen.net/npm/v/@kodekeep/hapi-ajv)](https://www.npmjs.com/package/@kodekeep/hapi-ajv)
-[![Total Downloads](https://badgen.net/npm/dt/kodekeep/hapi-ajv)](https://npmjs.org/package/@kodekeep/hapi-ajv)
-[![License](https://badgen.net/npm/license/kodekeep/hapi-ajv)](https://npmjs.org/package/@kodekeep/hapi-ajv)
+[![Latest Version](https://badgen.net/npm/v/@kodekeep/hapi-ajv)](https://npmjs.com/package/@kodekeep/hapi-ajv)
+[![Software License](https://badgen.net/npm/license/@kodekeep/hapi-ajv)](https://npmjs.com/package/@kodekeep/hapi-ajv)
+[![Build Status](https://img.shields.io/github/workflow/status/kodekeep/hapi-ajv/run-tests?label=tests)](https://github.com/kodekeep/hapi-ajv/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![Coverage Status](https://badgen.net/codeclimate/coverage/kodekeep/hapi-ajv)](https://codeclimate.com/github/kodekeep/hapi-ajv)
+[![Quality Score](https://badgen.net/codeclimate/maintainability/kodekeep/hapi-ajv)](https://codeclimate.com/github/kodekeep/hapi-ajv)
+[![Total Downloads](https://badgen.net/npm/dt/kodekeep/hapi-ajv)](https://npmjs.com/package/@kodekeep/hapi-ajv)
 
-> AJV integration for hapi.js
+This package was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and provides an AJV integration for hapi.
 
 ## Installation
 
@@ -37,6 +37,10 @@ If you discover a security vulnerability within this package, please send an e-m
 
 This project exists thanks to all the people who [contribute](../../contributors).
 
+## Support Us
+
+We invest a lot of resources into creating and maintaining our packages. You can support us and the development through [GitHub Sponsors](https://github.com/sponsors/faustbrian).
+
 ## License
 
-Mozilla Public License Version 2.0 (MPL-2.0). Please see [License File](LICENSE.md) for more information.
+hapi AJV is an open-sourced software licensed under the [MPL-2.0](LICENSE.md).
