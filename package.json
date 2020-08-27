@@ -73,7 +73,7 @@
 		"jest": "^25.2.3",
 		"jest-extended": "^0.11.5",
 		"prettier": "^2.0.2",
-		"ts-jest": "^25.2.1",
+		"ts-jest": "^26.0.0",
 		"typescript": "^3.8.3"
 	}
 }
