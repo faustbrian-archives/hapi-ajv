@@ -1,9 +1,10 @@
 import { ResponseToolkit, Server } from "@hapi/hapi";
 import AJV, { ErrorObject } from "ajv";
+
 import { IValidationError } from "./interfaces";
 
 function mapErrors(type: string, errors: ErrorObject[]): any[] {
-	return errors.map(error => {
+	return errors.map((error) => {
 		const report: IValidationError = {
 			status: 422,
 			source: { pointer: error.schemaPath },
