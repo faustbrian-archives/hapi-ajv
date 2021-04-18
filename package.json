@@ -19,12 +19,12 @@
 		"dist"
 	],
 	"dependencies": {
-		"@hapi/hapi": "^20.0.3",
-		"ajv": "^6.12.6"
+		"@hapi/hapi": "^20.1.2",
+		"ajv": "^8.1.0"
 	},
 	"devDependencies": {
-		"@konceiver/tease": "^2.0.0",
-		"@types/hapi__hapi": "^20.0.3"
+		"@konceiver/tease": "^2.0.1",
+		"@types/hapi__hapi": "^20.0.7"
 	},
 	"types": "dist/index"
 }
