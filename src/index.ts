@@ -15,6 +15,7 @@ function mapErrors(type: string, errors: ErrorObject[]): any[] {
 			report.detail = error.message;
 		}
 
+		// @ts-ignore
 		if (error.dataPath) {
 			// @ts-ignore
 			report.source.parameter = error.dataPath;
