@@ -92,7 +92,7 @@ function expect422(response: any) {
 					pointer: "#/required",
 				},
 				title: "required",
-				detail: "should have required property 'name'",
+				detail: "must have required property 'name'",
 			},
 		],
 	});
