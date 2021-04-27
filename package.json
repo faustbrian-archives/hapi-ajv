@@ -24,7 +24,7 @@
 	},
 	"devDependencies": {
 		"@konceiver/tease": "^2.0.1",
-		"@types/hapi__hapi": "^20.0.7"
+		"@types/hapi__hapi": "^20.0.8"
 	},
 	"types": "dist/index"
 }
