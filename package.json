@@ -20,7 +20,7 @@
 	],
 	"dependencies": {
 		"@hapi/hapi": "^20.1.2",
-		"ajv": "^8.1.0"
+		"ajv": "^8.2.0"
 	},
 	"devDependencies": {
 		"@konceiver/tease": "^2.0.1",
